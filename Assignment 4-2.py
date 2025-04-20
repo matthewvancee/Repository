@@ -1,8 +1,8 @@
 #Employee Details
-employee_name = "Kim Smith"
-num_shifts = 25
-num_transactions = 75
-transaction_value = 40000.00
+employee_name = "Jenna Jekins"
+num_shifts = 15
+num_transactions = 30
+transaction_value = 25000.00
 
 #Calculate productivity score
 productivity_score = (transaction_value / num_transactions) / num_shifts

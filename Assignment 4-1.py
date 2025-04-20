@@ -6,9 +6,9 @@ This program calculates prices for custom house signs.
 # Charge for this sign.
 charge = 0.0
 # Number of characters.
-numChars = 8
+numChars = 18
 # Color of characters.
-color = "gold"
+color = "black"
 # Type of wood.
 woodType = "oak"
 # Write assignment and if statements here as appropriate.

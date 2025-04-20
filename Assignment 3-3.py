@@ -18,7 +18,6 @@ MAX_DAY = 31
 # housekeeping()
 
 # Check to be sure date is valid
-
 if year <= MIN_YEAR: # invalid year
     validDate = False
 elif int(month) < MIN_MONTH or int(month) > MAX_MONTH: # invalid month
