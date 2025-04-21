@@ -1,7 +1,6 @@
 import os
 
-#Allowed list of vehicles
-AllowedVehiclesList = [ 'Ford F-150', 'Chevrolet Silverado', 'Tesla Cybertruck', 'Toyota Tundra', 'Nissan Titan', 'Rivian R1T', 'Ram 1500' ]
+#Menu to display
 def display_menu():
     print("********************************")
     print("AutoCountry Vehicle Finder v0.1")
